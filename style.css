@@ -1,0 +1,24 @@
+ h1{
+      color : red;
+   }
+ 
+.header{
+    background-color: aqua;
+    display: flex ;
+    justify-content: space-between;
+}
+.menu{
+    background-color: aqua;
+}
+.desc{
+    display: flex;
+    justify-content: center;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
